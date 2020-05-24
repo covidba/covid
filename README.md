@@ -1,6 +1,6 @@
 As informações apresentadas neste repositório são de responsabilidade de seus autores. Esta iniciativa é uma produção independente que visa apresentar de diferentes formas as informações repassadas pelas prefeituras municipais acerca da evolução da COVID-19. Junte-se à nós e colabore!
 
-### Instrução pro CSV:   
+### Instrução para construção do CSV:   
 
 | data | confirmados | recuperados | mortes | tendencia | restricao |
 | --- | --- | --- | --- | --- | --- |
