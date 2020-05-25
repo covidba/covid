@@ -2,8 +2,8 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 
 ### Instrução para construção do CSV:   
 
-| data | confirmados | recuperados | mortes | tendencia | restricao |
-| --- | --- | --- | --- | --- | --- |
+| data | confirmados | recuperados | mortes | restricao |
+| --- | --- | --- | --- | --- |
 
 #### Tipos de restrições:
 - 0 => Comércio aberto
