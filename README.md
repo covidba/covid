@@ -4,6 +4,7 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 
 | data | confirmados | recuperados | mortes | restricao |
 | --- | --- | --- | --- | --- |
+| yyyy-mm-dd | decimal | decimal | decimal | ver tipos abaixo |
 
 #### Tipos de restrições:
 - 0 => Comércio aberto
