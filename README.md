@@ -7,7 +7,7 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 
 #### Tipos de restrições:
 - 0 => Comércio aberto
-- 1 => Comércio fechado
+- 1 => Comércio fechado (exceto serviços essenciais)
 - 2 a 23 => Horário do toque de recolher
 - 24 => Saída do toque de recolher
 - -1 => Entrada no lockdown
