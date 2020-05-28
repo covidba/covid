@@ -17,9 +17,9 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 #### Sobre as tabelas de mortes
 A SESAB alterou a forma de divulgação do número de mortos. Por isso, o número de mortos deverá ser apresentado nas colunas `mortes_residencia` e `mortes_ocorrencia` assim que o município disponibilizar essa forma de apresentação dos dados.
 
+#### Linha de expectativa
 Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Statistical-Modeling-of-COVID19-in-Brazil
 - O repositório utiliza Aprendizagem de Máquina que leva em consideração a quantidade de casos confirmados. O modelo utilizado é o **Susceptible-Infected-Recovered (SIR)**.
-
 
 ## Lista de Cidades
 - Ilhéus (Responsável: Allan Alves - IFBA):
