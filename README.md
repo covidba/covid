@@ -2,9 +2,9 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 
 ### Instrução para construção do CSV:   
 
-| data | confirmados | recuperados | mortes | restricao |
-| --- | --- | --- | --- | --- |
-| yyyy-mm-dd | decimal | decimal | decimal | ver tipos abaixo |
+| data | confirmados | recuperados | mortes | restricao | mortes_residencia | mortes_ocorrencia
+| --- | --- | --- | --- | --- | --- | --- |
+| yyyy-mm-dd | decimal | decimal | decimal | ver tipos abaixo | decimal | decimal
 
 #### Tipos de restrições:
 - 0 => Comércio aberto
@@ -13,6 +13,9 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 - 24 => Saída do toque de recolher
 - -1 => Entrada no lockdown
 - -0 => Saída do lockdown
+
+#### Sobre as tabelas de mortes
+A SESAB alterou a forma de divulgação do número de mortos. Por isso, o número de mortos deverá ser apresentado nas colunas `mortes_residencia` e `mortes_ocorrencia` assim que o município disponibilizar essa forma de apresentação dos dados.
 
 Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Statistical-Modeling-of-COVID19-in-Brazil
 - O repositório utiliza Aprendizagem de Máquina que leva em consideração a quantidade de casos confirmados. O modelo utilizado é o **Susceptible-Infected-Recovered (SIR)**.
