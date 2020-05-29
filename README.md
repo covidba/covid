@@ -32,5 +32,6 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
   - Colab: https://github.com/covidba/covid/blob/master/covid19_vitoria_da_conquista.ipynb
 
 
-# Jequié
-![](https://drive.google.com/uc?export=view&id=1Aurw95yKNpFAVDT-8VW7ALg8ftmTwEZF)
+# Jequié  
+![](https://drive.google.com/uc?export=view&id=1BAYAVD6yGvQ9n54_x22u71y7EwJu8T7L)
+![](https://drive.google.com/uc?export=view&id=1AwNiHHo8zKp7q2p53o5Lgb1rBsJ8YXdz)
