@@ -2,9 +2,9 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 
 ### Instrução para construção do CSV:   
 
-| data | confirmados | recuperados | mortes_residencia | mortes_ocorrencia | restricao
-| --- | --- | --- | --- | --- | --- | --- |
-| yyyy-mm-dd | decimal | decimal | decimal | decimal | ver tipos abaixo  
+| data | confirmados | recuperados | mortes_residencia | mortes_ocorrencia | restricao |  
+| --- | --- | --- | --- | --- | --- |  
+| yyyy-mm-dd | decimal | decimal | decimal | decimal | ver tipos abaixo |  
 
 #### Tipos de restrições:
 - 0 => Comércio aberto
