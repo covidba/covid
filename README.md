@@ -30,3 +30,8 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
   - Colab: https://github.com/covidba/covid/blob/master/covid19_jequie.ipynb
 - Vitória da Conquista (Responsável: Ramon Fontes - IFBA): 
   - Colab: https://github.com/covidba/covid/blob/master/covid19_vitoria_da_conquista.ipynb
+
+
+# Jequié
+
+![image](https://drive.google.com/uc?export=view&id=1Aurw95yKNpFAVDT-8VW7ALg8ftmTwEZF)
