@@ -33,5 +33,4 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
 
 
 # Jequié
-
-![image](https://drive.google.com/uc?export=view&id=1Aurw95yKNpFAVDT-8VW7ALg8ftmTwEZF)
+![](https://drive.google.com/uc?export=view&id=1Aurw95yKNpFAVDT-8VW7ALg8ftmTwEZF)
