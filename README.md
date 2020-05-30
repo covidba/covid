@@ -40,6 +40,10 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
 ![](https://drive.google.com/uc?export=view&id=1-4PokJv6GlioL4uE8ljDoe4OpFx_UGQn)
 ![](https://drive.google.com/uc?export=view&id=1-9KrclqY9ajCwL86wcVJasA_20rq2xGW)
 
+# Salvador
+![](https://drive.google.com/uc?export=view&id=1lfhHG3Uw49iXTS3KstmyFlR2xaFItWCI)
+![](https://drive.google.com/uc?export=view&id=1-1RagKSDoxavOP4-QngCp5XxU9zMqJ6X)
+
 # Bahia
 ![](https://drive.google.com/uc?export=view&id=1--s_e86HJ5OkyjnQIciFwDm7hOLWFPYH)
 ![](https://drive.google.com/uc?export=view&id=1--walWIG8ahzWuXSxo6ZYgh-4G1W199U)
