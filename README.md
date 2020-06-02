@@ -11,8 +11,13 @@ As informações apresentadas neste repositório são de responsabilidade de seu
 - 1 => Comércio fechado (exceto serviços essenciais)
 - 2 a 23 => Horário do toque de recolher
 - 24 => Saída do toque de recolher
-- -1 => Entrada no lockdown
-- -0 => Saída do lockdown
+- 50 => Entrada no lockdown
+- 51 => Saída do lockdown
+- 61 => Fase 1 de abertura do comércio
+- 62 => Fase 2 de abertura do comércio
+- 63 => Fase 3 de abertura do comércio
+- 64 => Fase 4 de abertura do comércio
+- 65 => Fase 5 de abertura do comércio
 
 #### Sobre as tabelas de mortes
 A SESAB alterou a forma de divulgação do número de mortos. Por isso, o número de mortos deverá ser apresentado nas colunas `mortes_residencia` e `mortes_ocorrencia` assim que o município disponibilizar essa forma de apresentação dos dados.
