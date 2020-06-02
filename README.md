@@ -44,8 +44,8 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
 ![](https://drive.google.com/uc?export=view&id=1AwNiHHo8zKp7q2p53o5Lgb1rBsJ8YXdz)
 
 # Vitória da Conquista
-![](https://drive.google.com/uc?export=view&id=1-4PokJv6GlioL4uE8ljDoe4OpFx_UGQn)
-![](https://drive.google.com/uc?export=view&id=1-9KrclqY9ajCwL86wcVJasA_20rq2xGW)
+![](https://drive.google.com/uc?export=view&id=1-BPW6LzbxpqJyytyVgxiEQPtgEsw5Sj3)
+![](https://drive.google.com/uc?export=view&id=1-HBgOUsMP-Cc0MhUlwbXQmWXrahisJK_)
 
 # Salvador
 ![](https://drive.google.com/uc?export=view&id=1lfhHG3Uw49iXTS3KstmyFlR2xaFItWCI)
