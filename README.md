@@ -27,6 +27,8 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
 - O repositório utiliza Aprendizagem de Máquina que leva em consideração a quantidade de casos confirmados. O modelo utilizado é o **Susceptible-Infected-Recovered (SIR)**.
 
 ## Lista de Cidades
+- Feira de Santana (Responsável: Flávio Pereira - IFBA):
+  - Colab: https://github.com/covidba/covid/blob/master/covid19_feira_de_santana.ipynb
 - Ilhéus (Responsável: Allan Alves - IFBA):
   - Colab: https://github.com/covidba/covid/blob/master/covid19_ilheus.ipynb
 - Itabuna (Responsável: Allan Alves - IFBA):
