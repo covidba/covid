@@ -54,3 +54,4 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
 # Bahia
 ![](https://drive.google.com/uc?export=view&id=1--s_e86HJ5OkyjnQIciFwDm7hOLWFPYH)
 ![](https://drive.google.com/uc?export=view&id=1--walWIG8ahzWuXSxo6ZYgh-4G1W199U)
+![](https://drive.google.com/uc?export=view&id=1yssvgzc7ST5JTODHGPaxXaxJBQXDkzA_)
