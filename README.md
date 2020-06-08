@@ -24,7 +24,7 @@ A SESAB alterou a forma de divulgação do número de mortos. Por isso, o númer
 
 #### Linha de expectativa
 Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Statistical-Modeling-of-COVID19-in-Brazil
-- O repositório utiliza Aprendizagem de Máquina que leva em consideração a quantidade de casos confirmados. O modelo utilizado é o **Susceptible-Infected-Recovered (SIR)**.
+- O repositório utiliza Aprendizagem de Máquina que leva em consideração a quantidade de casos confirmados. Dois modelos podem ser utilizados: **Susceptible-Infected-Recovered (SIR)** e **Susceptible-Exposed-Infected-Recovered (SEIR)**.
 
 ## Lista de Cidades
 - Feira de Santana (Responsável: Flávio Pereira - IFBA):
