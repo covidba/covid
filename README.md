@@ -42,8 +42,8 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
 
 
 # Jequié  
-![](https://drive.google.com/uc?export=view&id=1--7gWAbvW57H4hPYLVNNDfe1liSJMdGQ)
-![](https://drive.google.com/uc?export=view&id=1-4ajTz45wsrtxxV-JPjSK0JCx51cdE8P)
+![](https://drive.google.com/uc?export=view&id=1-KM2oCU-iu9TiUWdrsJm6EKayeYjQyEe)
+![](https://drive.google.com/uc?export=view&id=14580IWFqeM5Ov-l9qYHAkj3hL4KwapVG)
 
 # Vitória da Conquista
 ![](https://drive.google.com/uc?export=view&id=1-BPW6LzbxpqJyytyVgxiEQPtgEsw5Sj3)
