@@ -31,6 +31,8 @@ Fonte da linha de expectativa: https://github.com/cidacslab/Mathematical-and-Sta
   - Colab: https://github.com/covidba/covid/blob/master/covid19_feira_de_santana.ipynb
 - Ilhéus (Responsável: Allan Alves - IFBA):
   - Colab: https://github.com/covidba/covid/blob/master/covid19_ilheus.ipynb
+- Ipiaú (Responsável: Luciano Nery Ferreira - UESB):
+
 - Itabuna (Responsável: Allan Alves - IFBA):
   - Colab: https://github.com/covidba/covid/blob/master/covid19_itabuna.ipynb
 - Jequié (Responsável: Ramon Fontes - IFBA): 
